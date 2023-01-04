@@ -1,0 +1,15 @@
+tbody{
+    display: table-row-group;
+    vertical-align: middle;
+    text-align: center;
+}
+table{
+    margin: auto;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    width: 90%;
+    text-align: start;
+    border-spacing: 2px;
+}
